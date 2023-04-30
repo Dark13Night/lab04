@@ -1,0 +1,6 @@
+/home/kali/lab04/formatter_ex_lib/build/CMakeFiles/formatter_ex.dir
+/home/kali/lab04/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/home/kali/lab04/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/home/kali/lab04/formatter_ex_lib/build/formatter/CMakeFiles/formatter.dir
+/home/kali/lab04/formatter_ex_lib/build/formatter/CMakeFiles/edit_cache.dir
+/home/kali/lab04/formatter_ex_lib/build/formatter/CMakeFiles/rebuild_cache.dir
