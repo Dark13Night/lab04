@@ -115,7 +115,7 @@ $ git push origin main
 
 (В процессе пришлось делать несколько попыток поэтому итоговый commit отличается от коммита на скрине)
 
-![VirtualBox_kali-linux-2022 4-virtualbox-amd64_18_04_2023_20_10_17](https://user-images.githubusercontent.com/112771541/235414815-9ca813a5-31f7-4f5a-8fcc-dc72ad4cf322.png)
+![VirtualBox_kali-linux-2022 4-virtualbox-amd64_18_04_2023_20_11_34](https://user-images.githubusercontent.com/112771541/235415044-f0fc8bce-8123-47bc-8877-7a29a72c0d90.png)
 
 Проверяем .github/actions(все неудачные попытки запуска удалены)
 
